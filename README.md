@@ -1,4 +1,4 @@
-# Next-word-prediction-using-RNN-
+# Next-word-prediction-using-RNN
  Next Word Prediction is additionally called Language Modeling. It is the undertaking of predicting
 what word comes straightaway. It is one of the major assignments of NLP and has numerous applications.
 
